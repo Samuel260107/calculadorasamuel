@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class CalculadoraSimples1{
+public class CalculadoraSimples{
 
     public static void main(String[] args) {
-
+//Samuel
         //Declaração de variáveis
         int n1, n2, total, op;
 
