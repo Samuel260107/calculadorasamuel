@@ -35,9 +35,6 @@ public class CalculadoraSimples{
                 //Saida
                 System.out.printf("%d + %d = %d", n1, n2, total);
             }else if (op == 2){
-                
-                System.out.println("\n\t\t\t -- Subtração --\n");
-            }else if(op == 2){
 
                 //Entrada
                 System.out.println("Informe N1: ");
@@ -49,7 +46,7 @@ public class CalculadoraSimples{
                 total = n1 - n2;
 
                 //Saida
-                System.out.printf("%d + %d = %d", n1, n2, total);
+                System.out.printf("%d - %d = %d", n1, n2, total);
 
                 System.out.println("\n\t\t\t -- Subtração --\n");
             }else if(op == 3){
