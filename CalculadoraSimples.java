@@ -51,8 +51,7 @@ public class CalculadoraSimples{
                 //Saida
                 System.out.printf("%d - %d = %d", n1, n2, total);
 
-                System.out.println("\n\t\t\t -- Subtração --\n");
-            }else if(op == 3){
+
                 System.out.println("Forte abraço!");
             }else{
                 System.out.println("Opção" + op + " incorreta!");
